@@ -1,5 +1,3 @@
-import "./stle.css";
-
 export class Ship{
     constructor(length,name) {
         this.length = length;
