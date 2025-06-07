@@ -1,5 +1,4 @@
 import { Ship, GameBoard, Player } from "./index.js";
-import './stle.css'; 
 const playerBoard = document.getElementById("player-board");
 const computerBoard = document.getElementById("computer-board");
 let shots = new Set();
